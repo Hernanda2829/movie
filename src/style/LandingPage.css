@@ -1,0 +1,57 @@
+.MyBG {
+  height: 100vh;
+  background: url('../assets/images/Bg/bg2.jpg');
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.nav {
+  font-weight: 400;
+  line-height: 2;
+  color: rgb(0, 0, 0);
+}
+
+.brand {
+  font-weight: 600;
+  line-height: 1;
+}
+
+.trending {
+  height: auto;
+  background: url('../assets/images/Bg/bg3.jpg');
+  background-size: cover;
+}
+
+.teks {
+  text-align: left;
+}
+
+.anime {
+  height: auto;
+  background: url('../assets/images/Bg/bg4.png');
+  background-size: cover;
+}
+
+.MovieImg {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 300px;
+}
